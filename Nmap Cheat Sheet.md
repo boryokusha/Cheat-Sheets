@@ -10,6 +10,7 @@
 		nmap tesla.com
 
 **Scan Parameters**:
+
 	-sS : TCP SYN port scan
 	-sT : TCP connect port scan
 	-sU : UDP port scan
