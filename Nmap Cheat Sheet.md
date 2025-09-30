@@ -30,7 +30,8 @@
 	-T4 : Aggressive
 	-T5 : Insane 
 	
-	Normally all scans running on T3 but when you need to pentest on black box or any sketchy activities you need to use 0 or 1 for bypass IDS,IPS or Firewall devices.
+	Normally all scans running on T3 but when you need to pentest on black box or any sketchy activities 
+	you need to use 0 or 1 for bypass IDS,IPS or Firewall devices.
 **Output Parameters**:
 
 	-oN : Normal output for use you need to be dedicated directory usage (-oN test.txt)
