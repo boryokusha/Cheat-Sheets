@@ -21,15 +21,18 @@
 	-O : Remote Os detection
 	-sC : Scan the default scripts
 
-Performance And Visibility Settings:
+**Performance And Visibility Settings**:
+
 	-T0 : Paranoid
 	-T1 : Sneaky
 	-T2 : Polite
 	-T3 : Normal
 	-T4 : Aggressive
 	-T5 : Insane 
+	
 	Normally all scans running on T3 but when you need to pentest on black box or any sketchy activities you need to use 0 or 1 for bypass IDS,IPS or Firewall devices.
-Output Parameters:
+**Output Parameters**:
+
 	-oN : Normal output for use you need to be dedicated directory usage (-oN test.txt)
 	-oA : Output on the three major file formats come in handy on the pentest reports
 	
