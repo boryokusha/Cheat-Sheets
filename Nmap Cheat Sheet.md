@@ -1,5 +1,4 @@
 **Target Specification**:
-
 	Scan a Single IP:	
 		nmap 192.168.0.1
 	Scan a Specific IPs:
