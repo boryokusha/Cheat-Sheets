@@ -1,13 +1,9 @@
 **Target Specification**:
 
-	Scan a Single IP:
-	
+	Scan a Single IP:	
 		nmap 192.168.0.1
-		
 	Scan a Specific IPs:
-	
 		nmap 192.168.0.1 192.168.0.2
-		
 	Scan Range IPs:
 	
 		nmap 192.168.0.1-254 or 192.168.0.0/24
